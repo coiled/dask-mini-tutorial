@@ -8,3 +8,5 @@ dependencies:
   - jupyterlab>=3
   - dask-labextension
   - ipywidgets
+  - graphviz
+  - python-graphviz
