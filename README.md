@@ -2,11 +2,11 @@
 
 This repository contains the jupyter notebooks for the Dask mini-tutorial. The materials covered are:
 
-TODO: review topics and add links to notebooks
-- Overview of dask - How it works and when to use it. 
-- Delayed, dask array, difference between single machine and distributed (maybe some extra on dashboard info)
-- Transition from pandas df to dask df 
-- dask-ml --> joblib with dask backend (like a grid search example), a segue to coiled
+0. Overview of dask - How it works and when to use it. 
+1. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
+2. Schedulers: Single Machine vs Distributed, and the Dashboard.   
+3. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
+4. Dask-ML: Scalable machine learning using Dask.  
 
 TODO: CHANGE BINDER LINK WHEN READY  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jrbourbeau/dask-binder-template/main?urlpath=lab)
