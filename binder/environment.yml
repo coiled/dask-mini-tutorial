@@ -8,3 +8,8 @@ dependencies:
   - jupyterlab>=3
   - dask-labextension
   - ipywidgets
+  - graphviz
+  - python-graphviz
+  - scikit-learn
+  - dask-ml
+  - coiled
