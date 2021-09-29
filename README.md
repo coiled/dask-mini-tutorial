@@ -8,9 +8,7 @@ This repository contains the jupyter notebooks for the Dask mini-tutorial. The m
 3. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
 4. Dask-ML: Scalable machine learning using Dask.  
 
-TODO: CHANGE BINDER LINK WHEN READY  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jrbourbeau/dask-binder-template/main?urlpath=lab)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-mini-tutorial/HEAD)
 
 
 
