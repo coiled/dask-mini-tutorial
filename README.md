@@ -1,4 +1,4 @@
-# Dask mini-tutorial 
+# Dask Live by Coiled Tutorial
 
 The purpose of this tutorial is to introduce folks to Dask and show them how to scale their python data-science and machine learning workflows. The materials covered are:
 
