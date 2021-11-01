@@ -46,7 +46,7 @@ to keep in mind is that the amount of resources are limited and sometimes you wo
         Alternatively, you can download the zip file of the repository at the top of the main page of the repository. This is a good option if you don't have experience with git.
         
     2. Download Anaconda 
-        If you do not have anaconda already install, you will need the Python 3 [Anaconda Distribution](https://www.anaconda.com/products/individual). If you don't want to install anaconda you can install all the packages with `pip`.
+        If you do not have anaconda already install, you will need the Python 3 [Anaconda Distribution](https://www.anaconda.com/products/individual). If you don't want to install anaconda you can install all the packages with `pip`, if you take this route you will need to install `graphviz` separately before installing `pygraphviz`.
     
     3. Create a conda environment
         In your terminal navigate to the directory where you have cloned/downloaded th `dask-mini-tutorial` repo and install the required packages by doing:
