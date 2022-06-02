@@ -2,7 +2,7 @@
 
 The purpose of this tutorial is to introduce folks to Dask and show them how to scale their python data-science and machine learning workflows. The materials covered are:
 
-0. Overview of dask - How it works and when to use it. 
+0. Overview of Dask - How it works and when to use it. 
 1. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
 2. Schedulers: Single Machine vs Distributed, and the Dashboard.   
 3. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
